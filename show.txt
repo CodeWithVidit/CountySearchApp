@@ -1,0 +1,21 @@
+ --- > create a html css and js file.
+
+ --- > link css and js file
+
+ --- > create a div as container in which create a div call as a search-box 
+
+ --- > in search-box create a input and button give id or class 
+
+ --- > after that create a div called result in which we have to show our result
+
+ --- > give css according you. source code in github
+
+ --- > after that go js file and get our input and button and result
+
+ --- > set addEventListener onclick event in which you can create a variable set input value using .value attribute
+
+ --- > and create a variable name url in which we can set our api.
+
+ --- > for api you have to https://restcountries.com/-
+
+ --- > we can add massage . when we can search if search is empty or not ther is show some error massage;
